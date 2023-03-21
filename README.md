@@ -1,12 +1,12 @@
 # freshly_inn
 Freshly Inn
 
-Hello, 
+Bonjour, 
 
-Freshly Inn is a website I created for my portfolio.
-I used HTML, CSS and two JavaScript plugins : Mixitup and Slick.
+Freshly Inn est un site responsive réalisé en mobile first.
+Technos utilisées : HTML, CSS et 2 plugins JavaScript : Mixitup and Slick.
 
-Thank you.
+Merci !
 
 COMPPER Mickaël
-denturesdaemon@pm.me
+Mickael.Compper@proton.me
